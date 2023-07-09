@@ -3,7 +3,7 @@
   "name": "glslsandbox-to-kodelife",
   "title": "GLSL Sandbox to KodeLife",
   "description": "Convert GLSL Sandbox code to KodeLife code.",
-  "icon": "command-icon.png",
+  "icon": "command-icon.jpg",
   "author": "takuyahara",
   "categories": [
     "Data",
